@@ -7,7 +7,7 @@ This python package is Created by Raja Pandi S.
 
 Install
 
-`pip install git+ssh://git@github.com:Rawwire/nlppreprocessing_rawwire.git`
+`pip install git+ssh://git@github.com/Rawwire/nlppreprocessing_rawwire.git`
 
 Uninstall
 
