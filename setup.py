@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
 	name= "nlppreprocess_rawwire",
-	version = '0.0.1',
+	version = '0.0.2',
 	author = 'Raja Pandi S',
 	author_email = 'rajapandivnr1@gmail.com',
 	description= ' This is preprocessing package for NLP',
