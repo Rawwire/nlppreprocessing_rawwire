@@ -11,7 +11,7 @@ setuptools.setup(
 	description= ' This is preprocessing package for NLP',
 	long_description = long_description,
 	long_description_content_type = 'text/markdown',
-	packaages = setuptools.find_packages(),
+	packages = setuptools.find_packages(),
 	classifiers = [
 	'Programming Language :: Python :: 3',
 	'License :: OSI Approved :: MIT License',
