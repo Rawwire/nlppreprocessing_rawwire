@@ -26,7 +26,7 @@ def _get_avgwordlength(x):
 	return avg
 
 def _get_stopwordcount(x):
-	swcount= len([i for i in text.split() if i in stopwords])
+	swcount= len([i for i in x.split() if i in stopwords])
 	return swcount 
 
 def _get_hastagscount(x):
